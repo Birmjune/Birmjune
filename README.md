@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Personally interested in computer science, especially AI. 
+
+I also do some side projects (web development, etc...) to make some fun things.
+
+Enjoy!
+
 ### Statistics
 
 ![Top Langs I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=Birmjune&layout=compact&langs_count=10&exclude_repo=login_lecture,express-ejs-skeleton)

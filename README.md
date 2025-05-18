@@ -1,13 +1,14 @@
 ## Hi there 👋
 
-I'm a university student personally interested in computer science, especially AI (mathematical theory, software, and hardware) and cryptography.     
+I'm a university student personally interested in computer science, especially AI and cryptography.     
+In the AI field, I am interested in both the mathematical foundations and the software/hardware techniques.        
 I also do some side projects (web development, etc...) to make some fun things.  
 
 Enjoy!
 
 ### Statistics
 
-![Top Langs I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=Birmjune&layout=compact&langs_count=10&exclude_repo=login_lecture,express-ejs-skeleton)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Birmjune&layout=compact&theme=dracula)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Birmjune&show_icons=true&theme=radical)
 

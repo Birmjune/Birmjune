@@ -8,7 +8,7 @@ Enjoy!
 
 ### Statistics
 
-![Top Langs I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=Birmjune&layout=pie&langs_count=12)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Birmjune&layout=compact)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Birmjune&show_icons=true&theme=radical)

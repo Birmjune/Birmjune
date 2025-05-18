@@ -8,7 +8,7 @@ Enjoy!
 
 ### Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Birmjune&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Birmjune&theme=dracula)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Birmjune&show_icons=true&theme=radical)
 

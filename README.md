@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a university student personally interested in computer science, especially AI, crypto, and systems.         
+I'm a university student personally interested in computer science, especially AI, crypto, and hardware systems for fast computing.             
 I also do some side projects (web development, etc...) to make some fun things.  
 
 Enjoy!

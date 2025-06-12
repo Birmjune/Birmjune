@@ -6,6 +6,10 @@ I also do some side projects (web development, kaggle competitions, etc...) to m
 Enjoy!
 
 <!--
+
+### My Statistics
+![Top Langs I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=Birmjune&layout=compact&langs_count=10&exclude_repo=login_lecture,express-ejs-skeleton)
+
 ### Statistics
 
 ![Top Langs I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=Birmjune&layout=compact&langs_count=10&exclude_repo=login_lecture,express-ejs-skeleton)

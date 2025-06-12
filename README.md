@@ -7,7 +7,7 @@ Enjoy!
 
 
 ### My Statistics
-![Top Langs I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=Birmjune&layout=compact&langs_count=6&exclude_repo=login_lecture,express-ejs-skeleton)
+![Top Langs I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=Birmjune&layout=compact&langs_count=8&exclude_repo=login_lecture,express-ejs-skeleton)
 
 <!--
 ### Statistics

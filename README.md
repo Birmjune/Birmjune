@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a university student personally interested in computer science, especially in hardware systems, AI, and crypto.          
+I'm a university student personally interested in computer science, especially in hardware systems, AI, and cryptography theory.           
 I also do some side projects (web development, kaggle competitions, etc...) to make some fun things.  
 
 Enjoy!

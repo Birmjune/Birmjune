@@ -5,12 +5,12 @@ I also do some side projects (web development, kaggle competitions, etc...) to m
 
 Enjoy!
 
-
+<!--
 ### My Statistics
 **Note**: The most-used languages **do not** indicate my skill levels (or something similar) ; it is just a GitHub metric!
 
 ![Top Langs I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=Birmjune&langs_count=8&exclude_repo=login_lecture,express-ejs-skeleton)
-
+-->
 
 <!--
 ### Statistics
